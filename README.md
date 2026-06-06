@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there checkout my hackathon winning projects below 👋
 
 <!--
 **queenleoa/queenleoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
